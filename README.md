@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi 👋, I'm Lukasz
+Backend developer which knows, how much he still don't know
 
-<!--
-**LukaszTylisz/LukaszTylisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on WeAreFlokk/Shepherd 
 
-Here are some ideas to get you started:
+🌱 I’m currently learning new technologies in C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 All of my projects are available at https://github.com/LukaszTylisz
+
+💬 Ask me about .NET, EF Core,SQL, C#
+
+📫 How to reach me lukasz.tylisz@gmail.com
+
+⚡ I love football (AC Milan in my heart)
+
+Languages and Tools:
+csharp docker dotnet git mssql postman ef mongoDb kafka
