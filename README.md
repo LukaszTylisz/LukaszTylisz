@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LukaszTylisz](https://github.com/LukaszTylisz)
 
-- 💬 Ask me about **.NET, EF Core,SQL, C#**
+- 💬 Ask me about **.NET, EF Core, SQL, C#**
 
 - 📫 How to reach me **lukasz.tylisz@gmail.com**
 
