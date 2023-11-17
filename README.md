@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukasz</h1>
 <h3 align="center">Backend developer which knows, how much he still don't know</h3>
 
-- 🔭 I’m currently working on WeAreFlokk/Shepherd && GameShop
+- 🔭 I’m currently working on WeAreFlokk/Shepherd
 
 - 🌱 I’m currently learning **new technologies in C#**
 
