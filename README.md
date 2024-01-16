@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lukasz</h1>
 <h3 align="center">Backend developer with big ambition to be better every day </h3>
 
-- 🔭 I’m currently working on Ticket Management
-
 - 🌱 I’m currently learning **new technologies in C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LukaszTylisz](https://github.com/LukaszTylisz)
