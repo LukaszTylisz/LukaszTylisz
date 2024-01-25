@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukasz</h1>
-<h3 align="center">Backend developer with big ambition to be better every day </h3>
+<h3 align="center"> I'm a backend developer enthusiast with a keen interest in continuous learning. I love coding and constantly strive to expand my knowledge in the ever-evolving tech world. Always ready for new challenges and opportunities! 🚀💻 </h3>
 
 - 🌱 I’m currently learning **new technologies in C#**
 
