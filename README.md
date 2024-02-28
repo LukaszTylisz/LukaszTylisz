@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lukasz.tylisz@gmail.com**
 
-- ⚡ I love football (AC Milan in my heart)
+- ⚡ Football fan (especially AC Milan)
 
 <p align="left">
 </p>
